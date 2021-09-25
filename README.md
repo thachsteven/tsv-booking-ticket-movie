@@ -25,7 +25,7 @@ https://user-images.githubusercontent.com/81154970/134753708-b0382e98-b24f-4800-
 https://user-images.githubusercontent.com/81154970/134753813-9729b838-04f4-4f76-8be3-08b8fa2ae9c2.mp4
 
 
-<h4>Here you can manage movies, search, add, edit, delete, create showtimes for movies</h4>
+<h4>Here you can manage movies,sort, search, add, edit, delete, create showtimes for movies</h4>
 
 
 
@@ -35,7 +35,7 @@ https://user-images.githubusercontent.com/81154970/134753914-53596448-6891-4ae4-
 
 https://user-images.githubusercontent.com/81154970/134753922-f8101df8-1bb4-4738-b153-cc1dfbc47ae8.mp4
 
-<h4>User management site that allows you to delete, edit, add new users</h4>
+<h4>User management site that allows you to delete, sort, edit, add new users</h4>
 
 
 https://user-images.githubusercontent.com/81154970/134753981-282e65b4-44dd-4408-a45f-de336f8f4218.mp4
