@@ -1,0 +1,54 @@
+{
+  "ĐĂNG NHẬP": "SIGN IN",
+  "ĐĂNG KÝ": "SIGN UP",
+  "ĐĂNG XUẤT": "SIGN OUT",
+  "TRANG CHỦ": "HOME",
+  "PHIM": "MOVIES",
+  "LỊCH CHIẾU": "SHOWTIMES",
+  "ƯU ĐÃI": "ENDOW",
+  "Phim đang chiếu": "Current movie",
+  "Phim sắp chiếu": "Movie coming soon",
+  "Chi tiết": "Details",
+
+  "Hệ Thống Rạp": "Cinema System",
+  "Tuyển dụng": "Recruitment",
+  "Liên Hệ": "Contact",
+  "QUY ĐỊNH & ĐIỀU KHOẢN": "PROVISIONS AND TERMS",
+  "Quy định thành viên": "Membership Rules",
+  "Điều khoản": "Rules",
+  "Hướng dẫn đặt vé trực tuyến": "Instructions for booking tickets online",
+  "Quy định và chính sách chung": "General rules and policies",
+
+  "Đánh giá": "Evaluate",
+  "Lịch chiếu": "Showtimes",
+  "Thông tin": "Information",
+
+  "Thông tin cá nhân": "Personal information",
+  "Lịch sử đặt vé": "Booking history",
+  "Email": "Email",
+  "Họ tên": "Full name",
+  "Số điện thoại": "Phone",
+  "Tài khoản": "UserName",
+  "Mật khẩu": "Password",
+  "Cập nhật": "Update",
+  "Tác vụ": "Action",
+  "Loại người dùng": "User type",
+  "Chỉnh sửa thông tin tài khoản": "Edit profile",
+
+  "Ngày đặt": "Booking date",
+  "Giờ đặt": "Booking time",
+  "Rạp": "Theater",
+  "Ghế": "Seats",
+
+  "Địa điểm": "Address",
+  "Ngày chiếu": "Movie day",
+  "ĐẶT VÉ": "BOOK",
+
+  "Ghế chưa đặt": "Seats not booked",
+  "Ghế đang đặt": "Seats are booked",
+  "Ghế VIP": "VIP seats",
+  "Ghế đã đặt": "Seats booked",
+  "Ghế của bạn": "Your seat",
+
+  "MÀN HÌNH": "SCREEN"
+}
