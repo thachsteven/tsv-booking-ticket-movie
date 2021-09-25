@@ -1,70 +1,62 @@
-# Getting Started with Create React App
+<h1>TSV Movie Tickets Online Booking.</h1>
+<h4>Technologies: Reactjs, React-hook, Redux, Tailwindcss, Redux Thunk, Formik, Yup, Ant Design,Lodash, React Router DOM, Axios,...  </h4>
+<h4>Source: https://github.com/thachsteven/tsv-booking-ticket-movie</h4>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h3>
+  TSV is an online movie ticket booking website build with Reactjs
+</h3>
 
-## Available Scripts
+https://user-images.githubusercontent.com/81154970/134753429-d9007320-77db-4852-871a-4ee62146e0ce.mp4
 
-In the project directory, you can run:
 
-### `npm start`
+<h4>This page shows detailed information of the movie including theaters, showtimes, description and movie rating,...</h4>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+https://user-images.githubusercontent.com/81154970/134753490-8a91a3a2-bd0d-46ef-82ea-ecb7f2116c34.mp4
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<h4>Website for users to choose and book movie seats, only logged in accounts can book tickets. Tickets booked will be saved in the booking history</h4>
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+https://user-images.githubusercontent.com/81154970/134753695-6f199844-ec18-44f9-bc92-3842938ac67d.mp4
 
-### `npm run build`
+https://user-images.githubusercontent.com/81154970/134753708-b0382e98-b24f-4800-9abe-0606a4ebd350.mp4
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<h4>Here you can change the personal information, user type from customer to admin to be able to access the admin website</h4>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+https://user-images.githubusercontent.com/81154970/134753813-9729b838-04f4-4f76-8be3-08b8fa2ae9c2.mp4
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+<h4>Here you can manage movies, search, add, edit, delete, create showtimes for movies</h4>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+https://user-images.githubusercontent.com/81154970/134753914-53596448-6891-4ae4-bc07-67f577c215cd.mp4
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+https://user-images.githubusercontent.com/81154970/134753922-f8101df8-1bb4-4738-b153-cc1dfbc47ae8.mp4
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<h4>User management site that allows you to delete, edit, add new users</h4>
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+https://user-images.githubusercontent.com/81154970/134753981-282e65b4-44dd-4408-a45f-de336f8f4218.mp4
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<h4>Finally, Multi-language function that you can change the language of the website in 3 languages: Vietnamese, English and Chinese</h4>
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+https://user-images.githubusercontent.com/81154970/134754043-d1e65e00-6d40-4fed-861c-61813987368b.mp4
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+<hr />
+<h2>Setting up development environment 🛠</h2>
 
-### `npm run build` fails to minify
+<ul>
+  <li><h4>git clone https://github.com/thachsteven/tsv-booking-ticket-movie.git</h4></li>
+  <li><h4>cd tsv-booking-ticket-movie</h4></li>
+  <li><h4>npm install (or yarn install)</h4></li>
+  <li><h4>npm start (or yarn start)</h4></li>
+</ul>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<hr />
